@@ -50,6 +50,7 @@ for i=1:length(EMA_total),
     end
 end 
 
+%plot data 
 figure
 plot(EMA_left+EMA_right)
 xlabel('Sample Time');
