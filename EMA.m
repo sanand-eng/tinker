@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %             INFO             %
-% Scripted By: Sathya Anand    %
-% S.No:                        %
+%  Scripted By: Sathya Anand   %
+%   Exponential Moving Avg     %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc
 clear
