@@ -1,13 +1,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %             INFO             %
 % Scripted By: Sathya Anand    %
-% S.No: 100778020              %
+% S.No:                        %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc
 clear
 close ALL
-load('Signal_BearingOuterRaceDefect.mat')
-x = Signal_BearingOuterRaceDefect(1:200000); % assign data to x [0 1 2 3 4 5 6 7 8 9 10] ;
+load('INPUT_DATA.mat')
+x = Signal_DATA(1:200000); % assign data to x [0 1 2 3 4 5 6 7 8 9 10] ;
 T = 2048; % size of 1 window
 N_x = length(x); %total length of vector or samples
 
