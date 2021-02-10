@@ -2,6 +2,7 @@
 %             INFO             %
 %  Scripted By: Sathya Anand   %
 %   Exponential Moving Avg     %
+%         (c) 2015             %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc
 clear

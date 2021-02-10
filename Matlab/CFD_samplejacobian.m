@@ -1,4 +1,6 @@
-%authored by sathya anand 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Authored by Sathya Anand (c) 2013 %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all; close all; clc;
 
 %Define iteration criteria, step sizes, beta parameter
